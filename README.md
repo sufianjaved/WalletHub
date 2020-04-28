@@ -32,6 +32,7 @@ wh.password
 * Screenshot on test failure at:
 
 	WalletHub\build\screenshots\testcases.facebook
+	
 	WalletHub\build\screenshots\testcases.wallethub.insurance
 * GitHub
 
